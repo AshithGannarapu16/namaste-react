@@ -37,6 +37,7 @@
                     <h4>Biryani,North Indian,Asian</h4>
                     <h4>4.2 stars</h4>
                     <h4>38 minutes</h4>
+                    <h4>rating</h4>
                 </div>
             )
         }
