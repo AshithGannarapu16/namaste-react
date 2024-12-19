@@ -38,6 +38,7 @@
                     <h4>4.2 stars</h4>
                     <h4>38 minutes</h4>
                     <h4>rating</h4>
+                    <h4>Quote:"You Have To Dream, Before Your Dreams Can Come True -"APJ KAlAM""</h4>
                 </div>
             )
         }
@@ -95,4 +96,5 @@
             )
         }
         const root=ReactDOM.createRoot(document.getElementById("root"));
+
         root.render(<AppLayout/>);
