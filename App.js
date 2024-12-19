@@ -74,6 +74,7 @@
                         <RestaurantCard resName="KFC" cuisine="Burger,Fast Food,Pizza"/>
                         <RestaurantCard resName="KFC" cuisine="Burger,Fast Food,Pizza"/>
                         <RestaurantCard resName="KFC" cuisine="Burger,Fast Food,Pizza"/>
+                        <RestaurantCard resName="MACDOLONDS" cuisine ="Burger,Fast Food,Pizza,Fries"/>
 
 
 
@@ -89,6 +90,7 @@
                 <div className="app">
                     <Header/>
                     <Body/>
+                    
                 </div>
             )
         }
