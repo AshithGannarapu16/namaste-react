@@ -39,6 +39,7 @@
                     <h4>38 minutes</h4>
                     <h4>rating</h4>
                     <h4>Quote:"You Have To Dream, Before Your Dreams Can Come True -"APJ KAlAM""</h4>
+
                 </div>
             )
         }
@@ -76,6 +77,7 @@
                         <RestaurantCard resName="KFC" cuisine="Burger,Fast Food,Pizza"/>
                         <RestaurantCard resName="KFC" cuisine="Burger,Fast Food,Pizza"/>
                         <RestaurantCard resName="MACDOLONDS" cuisine ="Burger,Fast Food,Pizza,Fries"/>
+                        <RestaurantCard resName="Zomato" cuisine="all items in the above"/>
 
 
 
